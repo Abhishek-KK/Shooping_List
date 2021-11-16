@@ -1,29 +1,19 @@
 th{
-    font-family:cursive;
-    color: white;
-   background: turquoise;
+    color: rgb(0, 0, 0);
+   background: rgb(255, 255, 255);
 }
 tbody{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 body{
-    background-image: url("./Images/bngd5.jpg");
+    background-color: #ffffff;
     background-size: cover; 
 }
 
- /* #btn{
-     /* border: 5px solid red; 
-     margin-left: 20em;
-     margin-top:10em ;
-     font-family: 'Times New Roman', Times, serif;
-     font-size: xx-large;
-     color:orangered;
-     background: white;
- } */
-
  .table{
-     /* border: yellowgreen 2px solid; */
+   
     margin: 8%;
     width: 85%;
+    background-color: rgb(255, 255, 255);
  }
 

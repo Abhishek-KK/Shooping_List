@@ -4,83 +4,83 @@
     "grocery": [
             {
                 "SerialNo" : "1",
-                "Name": "Tomato",
-                "Quantity" : "500" ,
-                "Unit": "g",
-                "Department": "veggies",
-                "Notes":"Buy rippen"
+                "Name": "rice",
+                "Quantity" : "7" ,
+                "Unit": "kg",
+                "Department": "grocery",
+                "Notes":"good"
             },
             {
                 "SerialNo" : "2",
-                "Name": "Rice",
-                "Quantity" : "2" ,
+                "Name": "apple",
+                "Quantity" : "63" ,
                 "Unit": "kg",
-                "Department": "grocery",
-                "Notes":"Nirapara Matta Rice"
+                "Department": "fruit",
+                "Notes":"wost"
             },
             {
                 "SerialNo" : "3",
-                "Name": "Milk",
-                "Quantity" : "2" ,
-                "Unit": "pkt",
-                "Department": "grocery",
-                "Notes":"Milma skimmed milk"
+                "Name": "carrot",
+                "Quantity" : "65" ,
+                "Unit": "kg",
+                "Department": "fruit",
+                "Notes":"bad"
             },
             {
                 "SerialNo" : "4",
-                "Name": "Sugar",
-                "Quantity" : "1" ,
+                "Name": "wheat",
+                "Quantity" : "45" ,
                 "Unit": "kg",
                 "Department": "grocery",
-                "Notes":"Good quality"
+                "Notes":"Good "
             },
             {
                 "SerialNo" : "5",
-                "Name": "Biscuit",
-                "Quantity" : "2" ,
-                "Unit": "pkt",
-                "Department": "snacks",
-                "Notes":"Dark Fantasy"
+                "Name": "corn",
+                "Quantity" : "7" ,
+                "Unit": "kg",
+                "Department": "fruit",
+                "Notes":"wost condition"
             },
             {
                 "SerialNo" : "6",
-                "Name": "Flour",
-                "Quantity" : "1" ,
+                "Name": "maida",
+                "Quantity" : "78" ,
                 "Unit": "kg",
                 "Department": "grocery",
-                "Notes":"Wheat flour"
+                "Notes":"good"
             },
             {
                 "SerialNo" : "7",
                 "Name": "Oil",
-                "Quantity" : "1" ,
-                "Unit": "kg",
+                "Quantity" : "88" ,
+                "Unit": "liter",
                 "Department": "grocery",
-                "Notes":"Sunflower oil"
+                "Notes":"fresh"
             },
             {
                 "SerialNo" : "8",
-                "Name": "Egg",
+                "Name": "meat",
                 "Quantity" : "10" ,
-                "Unit": "No.s",
-                "Department": "grocery",
-                "Notes":"Duck eggs"
+                "Unit": "kg",
+                "Department": "meat",
+                "Notes":"beef"
             },
             {
                 "SerialNo" : "9",
-                "Name": "Bread",
-                "Quantity" : "1" ,
-                "Unit": "pkt",
+                "Name": "Bun",
+                "Quantity" : "8" ,
+                "Unit": "pack",
                 "Department": "snacks",
-                "Notes":"Wheat bread"
+                "Notes":"good"
             },
             {
                 "SerialNo" : "10",
-                "Name": "Apples",
-                "Quantity" : "1" ,
+                "Name": "grape",
+                "Quantity" : "465" ,
                 "Unit": "kg",
                 "Department": "fruits",
-                "Notes":"Red"
+                "Notes":"bad"
             }
     ]
     
