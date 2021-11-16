@@ -1,0 +1,89 @@
+
+{
+  
+    "grocery": [
+            {
+                "SerialNo" : "1",
+                "Name": "Tomato",
+                "Quantity" : "500" ,
+                "Unit": "g",
+                "Department": "veggies",
+                "Notes":"Buy rippen"
+            },
+            {
+                "SerialNo" : "2",
+                "Name": "Rice",
+                "Quantity" : "2" ,
+                "Unit": "kg",
+                "Department": "grocery",
+                "Notes":"Nirapara Matta Rice"
+            },
+            {
+                "SerialNo" : "3",
+                "Name": "Milk",
+                "Quantity" : "2" ,
+                "Unit": "pkt",
+                "Department": "grocery",
+                "Notes":"Milma skimmed milk"
+            },
+            {
+                "SerialNo" : "4",
+                "Name": "Sugar",
+                "Quantity" : "1" ,
+                "Unit": "kg",
+                "Department": "grocery",
+                "Notes":"Good quality"
+            },
+            {
+                "SerialNo" : "5",
+                "Name": "Biscuit",
+                "Quantity" : "2" ,
+                "Unit": "pkt",
+                "Department": "snacks",
+                "Notes":"Dark Fantasy"
+            },
+            {
+                "SerialNo" : "6",
+                "Name": "Flour",
+                "Quantity" : "1" ,
+                "Unit": "kg",
+                "Department": "grocery",
+                "Notes":"Wheat flour"
+            },
+            {
+                "SerialNo" : "7",
+                "Name": "Oil",
+                "Quantity" : "1" ,
+                "Unit": "kg",
+                "Department": "grocery",
+                "Notes":"Sunflower oil"
+            },
+            {
+                "SerialNo" : "8",
+                "Name": "Egg",
+                "Quantity" : "10" ,
+                "Unit": "No.s",
+                "Department": "grocery",
+                "Notes":"Duck eggs"
+            },
+            {
+                "SerialNo" : "9",
+                "Name": "Bread",
+                "Quantity" : "1" ,
+                "Unit": "pkt",
+                "Department": "snacks",
+                "Notes":"Wheat bread"
+            },
+            {
+                "SerialNo" : "10",
+                "Name": "Apples",
+                "Quantity" : "1" ,
+                "Unit": "kg",
+                "Department": "fruits",
+                "Notes":"Red"
+            }
+    ]
+    
+    
+
+}
